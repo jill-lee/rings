@@ -95,6 +95,7 @@
 
 
 
+
 /* footer */ /* footer */ /* footer */
 /* footer */ /* footer */ /* footer */
 /* footer */ /* footer */ /* footer */
@@ -103,6 +104,7 @@
   background: #1c1c1c none repeat scroll 0 0;
   color: #ffffff;
   padding: 40px 0;
+  
 }
 .jandco {
   margin-bottom: 32px;
@@ -112,6 +114,7 @@
   color: #ffffff;
   font-size: 18px;
   margin-bottom: 21px;
+  margin-top: 10%;
 }
 .jandco> p {
   color: #888888;
@@ -130,12 +133,6 @@
 .post-blog-date {
   padding-bottom: 25px;
   position: relative;
-}
-
-body {
-  color: #666666;
-  font-family: "Open Sans",sans-serif;
-  line-height: 24px;
 }
 
 .footer-top-layout [class*="col-sm-"]:first-child {
@@ -254,6 +251,5 @@ body {
 .footer-bottom-layout {
   text-align: center;
 }
-
 
 
