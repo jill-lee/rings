@@ -103,7 +103,7 @@
   background: #1c1c1c none repeat scroll 0 0;
   color: #ffffff;
   padding: 40px 0;
-  margin-top: 10%;  
+  margin-top: 10%;
 }
 .jandco {
   margin-bottom: 32px;
@@ -145,7 +145,7 @@ body {
 .footer-top-layout [class*="col-sm-"] {
   border-right: 2px solid #333333;
   padding: 0 0 0 28px;
-  
+
 }
 .footer-top-layout {
   color: #ffffff;
@@ -161,7 +161,7 @@ address {
 
 .footer-top-layout [class*="col-sm-"]:last-child {
   border-right: medium none;
-} 
+}
 .footer-top-layout {
   color: #ffffff;
 }
@@ -255,9 +255,3 @@ body {
 .footer-bottom-layout {
   text-align: center;
 }
-
-
-
-
-
-
