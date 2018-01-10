@@ -1,4 +1,4 @@
 # rings
 
 
-Live: https://phoenix-burn.github.io/rings/
+Live: s://jill-lee.github.io/rings/
