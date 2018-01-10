@@ -1,4 +1,5 @@
 # rings
 
 
-Live: s://jill-lee.github.io/rings/
+Live: https://jill-lee.github.io/rings/
+
